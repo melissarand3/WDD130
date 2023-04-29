@@ -22,8 +22,8 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #06311a;
+  --nav-link-color: #dbe2e7;
+  --nav-background-color: #0a3f23;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #396E94;
 }
@@ -137,7 +137,7 @@ nav a:hover {
 }
 .sm-home {
   grid-area: home;
-  background-color: #040655;
+  background-color: #4144eb;
   line-height: 3em;
 }
 .sm-page2 {
@@ -147,7 +147,7 @@ nav a:hover {
 }
 .sm-page3 {
   grid-area: page3;
-  background-color: #0d3616;
+  background-color: #308843;
   line-height: 3em;
 }
 .top {
